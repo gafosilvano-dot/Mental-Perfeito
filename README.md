@@ -5,8 +5,9 @@
 
 ##  1. Descrição do Problema
 O projeto visa solucionar a solidão no combate aos problemas de saúde mental de pessoas que enfrentam uma rotina acelerada. Nosso objetivo é disponibilizar **acompanhamento psicológico online 24 horas** com profissionais especializados e dispostos a ouvir e aconselhar o paciente, prevenindo, minimizando e localizando o estresse e a ansiedade.
-
 O foco abrange diferentes faixas etárias para alcançar o maior público possível, diminuindo os riscos de desenvolvimento de problemas neurológicos.
+
+---
 
 ###  Bases de Dados Públicas e Reais Utilizadas:
 * **DATASUS / Ministério da Saúde:** Dados epidemiológicos sobre transtornos mentais comuns (ansiedade e depressão) no Brasil.
@@ -22,8 +23,11 @@ Idealizamos um ecossistema digital focado em acessibilidade e suporte preventivo
 * **Conteúdo Educativo:** Vídeos sobre bem-estar mental e atividades guiadas para momentos de picos de ansiedade.
 * **Mapeamento Inteligente:** Direcionamento do usuário para pontos de apoio psicológico públicos.
 
+---
+
 ###  Proposta de solução tecnológica
 
+---
 
 | **Linguagens** | Java, JavaScript, TypeScript | Linguagens base para construção do ecossistema. |
 | **Frontend** | React + TypeScript | Interface do usuário moderna, tipada e componentizada. |
