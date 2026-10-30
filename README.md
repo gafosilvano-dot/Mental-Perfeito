@@ -1,4 +1,4 @@
-#  Mental Perfeito — Projeto de Saúde Mental (ODS-3)
+#  Mental Perfeito — Projeto de Saúde Mental
 > **Checkpoint 1** • Plataforma de suporte e acompanhamento de saúde mental para aqueles que desejam uma melhora e acompanhamento psicológico de qualidade.
 
 ---
