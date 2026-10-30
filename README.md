@@ -14,9 +14,6 @@ O foco abrange diferentes faixas etárias para alcançar o maior público possí
 * **IBGE (Pesquisa Nacional de Saúde - PNS):** Indicadores sobre estilo de vida, saúde mental e acesso a serviços de saúde da população jovem.
 * **IHME (Institute of Health Metrics and Evaluation):** Estatísticas globais e dados consolidados sobre saúde pública.
 
----
-
-##  2. Proposta de Solução Tecnológica
 Idealizamos um ecossistema digital focado em acessibilidade e suporte preventivo em tempo real, contendo:
 * **Atendimento 24h:** Profissionais especializados disponíveis a qualquer momento.
 * **Autoavaliação:** Área dedicada para o usuário testar e entender seu estado atual.
